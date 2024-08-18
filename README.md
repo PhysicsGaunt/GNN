@@ -1,5 +1,5 @@
 # GNN
-AML final project of Tom S &amp; Sebastian P
+AML final project of Tom S &amp; Sebastian
 
 
 geo_net.ipynb = main file
